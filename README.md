@@ -13,8 +13,8 @@
 - 📫 How to reach me **kedareeshwarsekar@gmail.com**   
 
 ### <b>🔗 Links</b>
-<a href="https://linkedin.com/in/kedareeshwar sekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedareeshwar sekar" height="30" width="40" /></a>
-<a href="https://instagram.com/kedar_eshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_eshwar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kedareeshwar-sekar-b78a431b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedareeshwar sekar" height="30" width="40" /></a>
+<a href="https://instagram.com/kedar_eshwar?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_eshwar" height="30" width="40" /></a>
 </p>
 <br>
 
