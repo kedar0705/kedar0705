@@ -53,3 +53,5 @@
 <a href="http://www.github.com/kedar0705"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kedar0705&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
+
+![snake animation](https://github.com/kedar0705/kedar0705/blob/output/github-contribution-grid-snake2.svg)
