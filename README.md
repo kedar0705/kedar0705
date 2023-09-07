@@ -6,6 +6,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kedar0705&label=Profile%20views&color=0e77b6&style=flat" alt="kedar" /> </p>
 
+<p align="center">
+  <img alt="kedar's git" src="images/kedar git.png" width="400" />
+</p>
+
+
 ### <b>About me</b>
 - 🎓 I'm a AI & ML student at [CIT](https://www.cit.edu.in/).
 - 🌱 I’m currently learning **Natural Language Processing, LLMs**
