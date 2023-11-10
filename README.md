@@ -15,7 +15,7 @@
 - 🎓 I'm a AI & ML student at [CIT](https://www.cit.edu.in/).
 - 🌱 I’m currently learning **Natural Language Processing, LLMs**
 - 💬 Ask me about **Python, Machine Learning, LLMs**
-- 📫 How to reach me **kedareeshwarsekar@gmail.com**   
+- 📫 How to reach me **kedareshwar72381@gmail.com**   
 
 ### <b>🔗 Links</b>
 <a href="https://www.linkedin.com/in/kedareeshwar-sekar-b78a431b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedareeshwar sekar" height="30" width="40" /></a>
