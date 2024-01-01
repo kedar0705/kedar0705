@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="images/giphy.gif"  />
 </div>
-<h1 align="center">Hi, I'm Kedareeshwar Sekar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi, I'm Kedareeshwar Sekar! <img src="images/wave.webp" width="40"></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kedar0705&label=Profile%20views&color=0e77b6&style=flat" alt="kedar" /> </p>
 
@@ -25,15 +25,14 @@
 
 
 ### <b>My Skill Set</b> <table><tr><td valign="top" width="33%">
-### Frontend  
+<!-- ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
-
-
+ -->
 
 ### Backend  
 <div align="center">  
