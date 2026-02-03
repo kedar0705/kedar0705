@@ -1,59 +1,78 @@
+<div align="center">
+  <img src="images/giphy.gif" height="120" alt="Hello" />
+  
+  <h1 align="center">Hi there, I'm Kedareeshwar Sekar! <img src="images/wave.webp" width="35" alt="wave" /></h1>
+
+  <!-- Dynamic Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MSc+Graduate+in+AI+%26+ML;Machine+Learning+Enthusiast;Python+Developer&center=true&width=500&height=50&color=38bdf8&vCenter=true&size=24" alt="Typing SVG" />
+  </a>
+
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kedar0705&label=Profile%20views&color=0e77b6&style=flat-square" alt="kedar" />
+  </p>
+
+  <!-- Custom Banner -->
+  <p align="center">
+    <img alt="kedar's git" src="images/kedar git.png" width="600" style="border-radius: 10px;" />
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I have successfully completed my **MSc in Artificial Intelligence and Machine Learning** at [Coimbatore Institute of Technology (CIT)](https://www.cit.edu.in/).
+- 🤖 I’m passionate about **Generative AI, Large Language Models (LLMs), and Computer Vision**.
+- 💡 I enjoy building intelligent systems using **AI**.
+- 💬 Ask me about **ML, Neural Networks, and GenAI**.
+- 📫 Reach me at **kedareshwar72381@gmail.com**
+
+<br />
 
 <div align="center">
-  <img height="150" src="images/giphy.gif"  />
-</div>
-<h1 align="center">Hi, I'm Kedareeshwar Sekar! <img src="images/wave.webp" width="40"></h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kedar0705&label=Profile%20views&color=0e77b6&style=flat" alt="kedar" /> </p>
+<h3>🛠️ Languages & Tools</h3>
+
+<!-- Tech Stack Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+</p>
+
+<br />
+
+<h3>📊 GitHub Stats</h3>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kedar0705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats-card" />
+  <img src="https://streak-stats.demolab.com/?user=kedar0705&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak-card" />
+</div>
+<br />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kedar0705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="top-langs" />
+
+<br />
+<br />
+
+<h3>🔗 Connect with Me</h3>
 
 <p align="center">
-  <img alt="kedar's git" src="images/kedar git.png" width="400" />
+  <a href="https://www.linkedin.com/in/kedareeshwar-sekar-b78a431b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/kedareeshwarsekar?igsh=bjU5bzg0YnpsbGp0&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:kedareshwar72381@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-
-### <b>About me</b>
-- 🎓 I'm a AI & ML student at [CIT](https://www.cit.edu.in/).
-- 🌱 I’m currently learning **Natural Language Processing, LLMs**
-- 💬 Ask me about **Python, Machine Learning, LLMs**
-- 📫 How to reach me **kedareshwar72381@gmail.com**   
-
-### <b>🔗 Links</b>
-<a href="https://www.linkedin.com/in/kedareeshwar-sekar-b78a431b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedareeshwar sekar" height="30" width="40" /></a>
-<a href="https://instagram.com/kedar_eshwar?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kedar_eshwar" height="30" width="40" /></a>
-</p>
-<br>
-
-
-### <b>My Skill Set</b> <table><tr><td valign="top" width="33%">
-<!-- ### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
- -->
-
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>   
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-### <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kedar0705"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kedar0705&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
