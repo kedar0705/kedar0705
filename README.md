@@ -52,7 +52,9 @@
 <h3>📊 GitHub Stats</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kedar0705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats-card" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">
+    <img  alt="kedar0705's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kedar0705?cardType=level&theme=github-dark&fontFamily=&preferLogin=false" />
+  </a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kedar0705&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="activity-graph" />
 </div>
 <br />
