@@ -53,7 +53,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kedar0705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats-card" />
-  <img src="https://streak-stats.demolab.com/?user=kedar0705&theme=tokyonight&hide_border=true&background=0d1117" height="160" alt="streak-card" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kedar0705&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="activity-graph" />
 </div>
 <br />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kedar0705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="top-langs" />
